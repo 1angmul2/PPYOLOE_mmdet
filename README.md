@@ -19,7 +19,7 @@ ln -s path/to/coco data/
 # Performance
 | Model | Lr schd | box AP (val) | Download |
 |:--------:|:-------:|:------:|:------:|
-|PP-YOLOE-s  |    300e   |  43.0  | coming soon
+|PP-YOLOE-s  |    300e   |  43.0  | [model](https://drive.google.com/drive/folders/1Q-K1CpXZ-Or42GBGWhVY5kUV2Bvjp87M?usp=share_link)
 
 # License
 [Apache 2.0 license](LICENSE)
